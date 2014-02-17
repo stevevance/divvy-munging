@@ -10,7 +10,7 @@ Important: The distance represents the Google Maps Bicycle directions distance f
 Divvy released trip data for all trips taken by annual members and 24-hour pass holders for the 2013 operation year, which is June 28 to December 31. 
 
 Distances are in meters unless marked otherwise. 
-Station IDs in files in <data_from_divvy> folders do not match station IDs <data_from_others> folder. 
+Station IDs in files in "data_from_divvy" folders do not match station IDs in files in "data_from_others" folder. 
 
 ## Sex/gender distribution
 69% of Divvy members are men, 31% are women, as of the end of 2013, and February 14, 2014. As of this writing, survey responses were not available. From Divvy. 
