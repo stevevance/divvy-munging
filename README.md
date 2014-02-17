@@ -12,7 +12,9 @@ Divvy released trip data for all trips taken by annual members and 24-hour pass 
 Distances are in meters unless marked otherwise. 
 Station IDs in files in <data_from_divvy> folders do not match station IDs <data_from_others> folder. 
 
-# Sex/gender distribution
+## Sex/gender distribution
 69% of Divvy members are men, 31% are women, as of the end of 2013, and February 14, 2014. As of this writing, survey responses were not available. From Divvy. 
+
 1.8% of male workers 16 years and older primarily used a bicycle to get to work, while 0.7% of female workers 16 years and older did. Both have a margin of error of ±0.1%. Considering there were 625,289 male workers 16+ (MOE of ±4,264) and 588,612 female workers 16+ (MOE of ±4,113), that's a ratio of 73.20% to 26.80%. American Community Survey, 2008-2012, table S08010, via American FactFinder.
+
 In 2013, 79.05% of member trips were by male members and 20.95% by female members. From my analysis of the trip data. 
