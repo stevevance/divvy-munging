@@ -1,0 +1,301 @@
+ID,Station Name,Status,Available Bikes,Available Docks,Time Added
+5,State St & Harrison St,In Service,6,13,2013-08-16 21:39:01.0
+13,Wilton Ave & Diversey Pkwy,In Service,6,13,2013-08-16 21:39:01.0
+14,Morgan St & 18th St,In Service,3,12,2013-08-16 21:39:01.0
+15,Racine Ave & 18th St,In Service,7,8,2013-08-16 21:39:01.0
+16,Wood St & North Ave,In Service,2,9,2013-08-16 21:39:01.0
+17,Wood St & Division St,In Service,3,12,2013-08-16 21:39:01.0
+19,Loomis St & Taylor St,In Service,4,10,2013-08-16 21:39:01.0
+20,Sheffield Ave & Kingsbury St,In Service,5,10,2013-08-16 21:39:01.0
+21,Aberdeen St & Jackson Blvd,In Service,9,6,2013-08-16 21:39:01.0
+22,May St & Taylor St,In Service,6,9,2013-08-16 21:39:01.0
+23,Orleans St & Elm St,In Service,7,8,2013-08-16 21:39:01.0
+24,Fairbanks Ct & Grand Ave,In Service,4,11,2013-08-16 21:39:01.0
+25,Michigan Ave & Pearson St,In Service,13,10,2013-08-16 21:39:01.0
+26,McClurg Ct & Illinois St,In Service,17,14,2013-08-16 21:39:01.0
+27,Larrabee St & North Ave,In Service,6,13,2013-08-16 21:39:01.0
+28,Larrabee St & Menomonee St,In Service,2,13,2013-08-16 21:39:01.0
+29,Noble St & Milwaukee Ave,In Service,7,8,2013-08-16 21:39:01.0
+30,Ashland Ave & Augusta Blvd,In Service,7,8,2013-08-16 21:39:01.0
+31,Franklin St & Chicago Ave,In Service,13,10,2013-08-16 21:39:01.0
+32,Racine Ave & Congress Pkwy,In Service,7,12,2013-08-16 21:39:01.0
+33,State St & Van Buren St,In Service,14,12,2013-08-16 21:39:01.0
+34,Cannon Dr & Fullerton Ave,In Service,4,11,2013-08-16 21:39:01.0
+35,Streeter Dr & Illinois St,In Service,18,21,2013-08-16 21:39:01.0
+36,Franklin St & Jackson Blvd,In Service,11,20,2013-08-16 21:39:01.0
+37,Dearborn St & Adams St,In Service,6,13,2013-08-16 21:39:01.0
+42,Wabash Ave & Cermak Rd,In Service,3,12,2013-08-16 21:39:01.0
+43,Michigan Ave & Washington St,In Service,32,11,2013-08-16 21:39:01.0
+44,State St & Randolph St,In Service,6,20,2013-08-16 21:39:01.0
+45,Michigan Ave & Congress Pkwy,In Service,1,14,2013-08-16 21:39:01.0
+46,Wells St & Walton St,In Service,3,16,2013-08-16 21:39:01.0
+47,State St & Kinzie St,In Service,5,14,2013-08-16 21:39:01.0
+48,Larrabee St & Kingsbury St,In Service,14,12,2013-08-16 21:39:01.0
+49,Dearborn St & Monroe St,In Service,6,17,2013-08-16 21:39:01.0
+50,Clark St & Congress Pkwy,In Service,11,16,2013-08-16 21:39:01.0
+51,Clark St & Randolph St,In Service,14,17,2013-08-16 21:39:01.0
+52,Michigan Ave & Lake St,In Service,12,11,2013-08-16 21:39:01.0
+53,Wells St & Erie St,In Service,0,18,2013-08-16 21:39:01.0
+54,Ogden Ave & Chicago Ave,In Service,10,9,2013-08-16 21:39:01.0
+55,Halsted St & James M Rochford St,In Service,7,8,2013-08-16 21:39:01.0
+56,Desplaines St & Kinzie St,In Service,4,15,2013-08-16 21:39:01.0
+57,Clinton St & Roosevelt Rd,In Service,7,8,2013-08-16 21:39:01.0
+58,Ashland Ave & Armitage Ave,In Service,2,13,2013-08-16 21:39:01.0
+59,Wabash Ave & Roosevelt Rd,In Service,6,13,2013-08-16 21:39:01.0
+60,Dayton St & North Ave,In Service,12,7,2013-08-16 21:39:01.0
+61,Wood St & Milwaukee Ave,In Service,5,10,2013-08-16 21:39:01.0
+62,McCormick Place,In Service,5,22,2013-08-16 21:39:01.0
+66,Clinton St & Lake St,In Service,7,12,2013-08-16 21:39:01.0
+67,Sheffield Ave & Fullerton Ave,In Service,2,13,2013-08-16 21:39:01.0
+68,Clinton St & Tilden St,In Service,7,16,2013-08-16 21:39:01.0
+69,Damen Ave & Pierce Ave,In Service,8,11,2013-08-16 21:39:01.0
+71,Morgan St & Lake St,In Service,3,12,2013-08-16 21:39:01.0
+72,State St & 16th St,In Service,9,6,2013-08-16 21:39:01.0
+73,Jefferson St & Monroe St,In Service,9,10,2013-08-16 21:39:01.0
+74,Kingsbury St & Erie St,In Service,16,7,2013-08-16 21:39:01.0
+75,Canal St & Jackson Blvd,In Service,11,23,2013-08-16 21:39:01.0
+76,Lake Shore Dr & Monroe St,In Service,5,5,2013-08-16 21:39:01.0
+77,Clinton St & Madison St,In Service,9,14,2013-08-16 21:39:01.0
+80,Aberdeen St & Madison St,In Service,9,10,2013-08-16 21:39:01.0
+81,Daley Center Plaza,In Service,23,24,2013-08-16 21:39:01.0
+84,Green St & Milwaukee Ave,In Service,8,11,2013-08-16 21:39:01.0
+85,Michigan Ave & Oak St,In Service,7,8,2013-08-16 21:39:01.0
+86,Eckhart Park,In Service,6,9,2013-08-16 21:39:01.0
+87,Racine Ave & Fullerton Ave,In Service,7,12,2013-08-16 21:39:01.0
+88,May St & Randolph St,In Service,4,11,2013-08-16 21:39:01.0
+90,Millennium Park,In Service,12,23,2013-08-16 21:39:01.0
+91,Clinton St & Washington Blvd,In Service,28,3,2013-08-16 21:39:01.0
+92,Carpenter St & Huron St,In Service,7,12,2013-08-16 21:39:01.0
+93,Sheffield Ave & Willow St,In Service,5,10,2013-08-16 21:39:01.0
+94,Lincoln Ave & Armitage Ave,In Service,8,11,2013-08-16 21:39:01.0
+97,Museum Campus,In Service,8,23,2013-08-16 21:39:01.0
+98,LaSalle St & Washington St,In Service,8,7,2013-08-16 21:39:01.0
+99,Lake Shore Dr & Ohio St,In Service,4,15,2013-08-16 21:39:01.0
+100,Orleans St & Merchandise Mart Plaza,In Service,12,11,2013-08-16 21:39:01.0
+106,State St & Pearson St,In Service,10,17,2013-08-16 21:39:01.0
+108,Halsted St & Polk St,In Service,9,10,2013-08-16 21:39:01.0
+109,900 W Harrison,In Service,5,14,2013-08-16 21:39:01.0
+110,State St & Erie St,In Service,11,12,2013-08-16 21:39:01.0
+111,Sedgwick St & Huron St,In Service,10,9,2013-08-16 21:39:01.0
+112,Green St & Randolph St,In Service,9,6,2013-08-16 21:39:01.0
+113,Bissell St & Armitage Ave,In Service,7,8,2013-09-05 14:55:01.0
+114,Sheffield Ave & Addison St,In Service,6,21,2013-08-16 21:39:01.0
+115,Sheffield Ave & Wellington Ave,In Service,8,15,2013-08-16 21:39:01.0
+116,Western Ave & Winnebago Ave,In Service,4,11,2013-08-16 21:39:01.0
+117,Wilton Ave & Belmont Ave,In Service,5,14,2013-08-16 21:39:01.0
+118,Sedgwick St & North Ave,In Service,10,9,2013-08-16 21:39:01.0
+119,Ashland Ave & Lake St,In Service,6,13,2013-08-16 21:39:01.0
+120,Wentworth Ave & Archer Ave,In Service,5,10,2013-08-16 21:39:01.0
+121,Blackstone Ave & Hyde Park Blvd,In Service,5,10,2013-08-28 15:24:01.0
+122,Ogden Ave & Congress Pkwy,In Service,3,12,2013-08-16 21:39:01.0
+123,California Ave & Milwaukee Ave,In Service,6,9,2013-08-16 21:39:01.0
+124,Damen Ave & Cullerton St,In Service,5,10,2013-08-16 21:39:01.0
+126,Clark St & North Ave,In Service,8,7,2013-08-16 21:39:01.0
+127,Lincoln Ave & Fullerton Ave,In Service,5,10,2013-10-29 16:07:02.0
+128,Damen Ave & Chicago Ave,In Service,7,8,2013-08-16 21:39:01.0
+129,Blue Island Ave & 18th St,In Service,4,11,2013-08-16 21:39:01.0
+130,Damen Ave & Division St,In Service,7,7,2013-08-16 21:39:01.0
+131,Lincoln Ave & Belmont Ave,In Service,5,10,2013-09-23 19:20:01.0
+132,Wentworth Ave & 24th St,In Service,3,12,2013-09-05 11:46:01.0
+134,Peoria St & Jackson Blvd,In Service,4,15,2013-08-16 21:39:01.0
+135,Halsted St & 21st St,In Service,5,6,2013-08-16 21:39:01.0
+136,Racine Ave & 13th St,In Service,5,10,2013-08-16 21:39:01.0
+137,Morgan Ave & 14th Pl,In Service,7,8,2013-08-16 21:39:01.0
+138,Clybourn Ave & Division St,In Service,7,8,2013-08-16 21:39:01.0
+140,Dearborn Pkwy & Delaware Pl,In Service,7,11,2013-08-16 21:39:01.0
+141,Clark St & Lincoln Ave,In Service,8,15,2013-08-16 21:39:01.0
+143,Sedgwick St & Webster Ave,In Service,2,13,2013-08-16 21:39:01.0
+144,Larrabee St & Webster Ave,In Service,5,10,2013-08-16 21:39:01.0
+146,Loomis St & Jackson Blvd,In Service,2,9,2013-08-16 21:39:01.0
+147,Indiana Ave & 26th St,In Service,5,10,2013-08-16 21:39:01.0
+148,State St & 33rd St,In Service,4,7,2013-08-28 03:24:02.0
+149,Calumet Ave & 33rd St,In Service,6,5,2013-08-16 21:39:01.0
+150,Fort Dearborn Dr & 31st St,In Service,5,6,2013-08-16 21:39:01.0
+152,Lincoln Ave & Diversey Pkwy,In Service,6,9,2013-08-16 21:39:01.0
+153,Southport Ave & Wellington Ave,In Service,8,11,2013-08-16 21:39:01.0
+154,Southport Ave & Belmont Ave,In Service,5,10,2013-08-16 21:39:01.0
+156,Clark St & Wellington Ave,In Service,2,13,2013-08-16 21:39:01.0
+157,Lake Shore Dr & Wellington Ave,In Service,2,13,2013-08-16 21:39:01.0
+158,Milwaukee Ave & Wabansia Ave,In Service,7,8,2013-08-16 21:39:01.0
+159,Claremont Ave & Hirsch St,In Service,4,7,2013-08-16 21:39:01.0
+160,Campbell Ave & North Ave,In Service,6,9,2013-08-16 21:39:01.0
+162,Damen Ave & Wellington Ave,In Service,6,9,2013-08-16 21:39:01.0
+163,Paulina St & Diversey Pkwy,In Service,8,7,2013-08-16 21:39:01.0
+164,Franklin St & Lake St,In Service,5,18,2013-08-16 21:39:01.0
+165,Clark St & Waveland Ave,In Service,5,14,2013-08-16 21:39:01.0
+166,Ashland Ave & Wrightwood Ave,In Service,9,6,2013-08-16 21:39:01.0
+167,Damen Ave & Coulter St,In Service,3,8,2013-08-16 21:39:01.0
+168,Michigan Ave & 14th St,In Service,7,12,2013-08-16 21:39:01.0
+169,Canal St & Harrison St,In Service,7,8,2013-08-16 21:39:01.0
+170,Clinton St & 18th St,In Service,5,10,2013-08-16 21:39:01.0
+171,May St & Cullerton St,In Service,2,9,2013-08-16 21:39:01.0
+173,Mies van der Rohe Way & Chicago Ave,In Service,6,9,2013-08-16 21:39:01.0
+174,Canal St & Madison St,In Service,22,1,2013-08-16 21:39:01.0
+175,Wells St & Polk St,In Service,8,11,2013-08-16 21:39:01.0
+176,Clark St & Elm St,In Service,10,9,2013-08-16 21:39:01.0
+177,Theater on the Lake,In Service,5,10,2013-08-16 21:39:01.0
+178,State St & 19th St,In Service,4,11,2013-08-16 21:39:01.0
+179,Martin Luther King Dr & Oakwood Blvd,In Service,5,10,2013-08-16 21:39:01.0
+181,LaSalle St & Illinois St,In Service,13,6,2013-08-16 21:39:01.0
+183,Damen Ave & Augusta Blvd,In Service,7,8,2013-08-16 21:39:01.0
+184,State St & 35th St,In Service,3,16,2013-08-16 21:39:01.0
+185,Stave St & Armitage Ave,In Service,5,6,2013-08-16 21:39:01.0
+186,Ogden Ave & Race Ave,In Service,5,10,2013-08-16 21:39:01.0
+188,Greenview Ave & Fullerton Ave,In Service,6,9,2013-08-16 21:39:01.0
+190,Southport Ave & Wrightwood Ave,In Service,7,8,2013-08-16 21:39:01.0
+191,Canal St & Monroe St,In Service,4,19,2013-08-16 21:39:01.0
+192,Canal St & Adams St,In Service,8,18,2013-08-16 21:39:01.0
+193,State St & 29th St,In Service,4,11,2013-08-23 12:58:01.0
+194,State St & Wacker Dr,In Service,1,10,2013-08-16 21:39:01.0
+195,Columbus Dr & Randolph St,In Service,8,15,2013-08-16 21:39:01.0
+196,Cityfront Plaza & N Water St,In Service,6,13,2013-08-16 21:39:01.0
+197,Michigan Ave & Madison St,In Service,5,14,2013-08-16 21:39:01.0
+198,Halsted St & Madison St,In Service,9,10,2013-08-16 21:39:01.0
+199,Wabash Ave & Grand Ave,In Service,7,8,2013-08-16 21:39:01.0
+200,King Dr & 47th St,In Service,3,8,2013-08-16 21:39:01.0
+201,Indiana Ave & 40th St,In Service,4,11,2013-08-16 21:39:01.0
+202,Halsted St & 18th St,In Service,4,11,2013-08-16 21:39:01.0
+203,Western Ave & 21st St,In Service,6,9,2013-08-16 21:39:01.0
+204,Prairie Ave & Garfield Blvd,In Service,8,7,2013-08-16 21:39:01.0
+205,Paulina St & 18th St,In Service,1,14,2013-08-16 21:39:01.0
+206,Halsted St & Archer Ave,In Service,4,11,2013-08-16 21:39:01.0
+207,Emerald Ave & 28th St,In Service,6,9,2013-08-16 21:39:01.0
+208,Ashland Ave & 21st St,In Service,5,10,2013-08-16 21:39:01.0
+209,Normal Ave & Archer Ave,In Service,3,8,2013-08-16 21:39:01.0
+210,Ashland Ave & Division St,In Service,8,11,2013-08-16 21:39:01.0
+211,St Clair St & Erie St,In Service,6,13,2013-08-16 21:39:01.0
+212,Wells St & Ohio St,In Service,6,13,2013-08-16 21:39:01.0
+213,Leavitt St & North Ave,In Service,8,3,2013-08-16 21:39:01.0
+214,Damen Ave & Grand Ave,In Service,3,12,2013-08-16 21:39:01.0
+215,Damen Ave & Madison St,In Service,4,11,2013-08-16 21:39:01.0
+216,California Ave & Division St,In Service,4,11,2013-08-16 21:39:01.0
+217,May St & Fulton St,In Service,2,13,2013-08-16 21:39:01.0
+218,Wells St & 19th St,In Service,6,5,2013-08-23 12:38:01.0
+219,Damen Ave & Cortland St,In Service,4,7,2013-08-20 12:19:01.0
+220,Hampden Ct & Diversey Pkwy,In Service,8,11,2013-08-19 20:48:01.0
+222,Milwaukee Ave & Rockwell St,In Service,4,14,2013-08-23 00:15:01.0
+223,Clifton Ave & Armitage Ave,In Service,3,12,2013-08-23 00:15:01.0
+224,Halsted St & Willow St,In Service,6,13,2013-08-23 00:15:01.0
+225,Halsted St & Dickens Ave,In Service,7,8,2013-08-19 20:48:01.0
+226,Racine Ave & Belmont Ave,In Service,7,8,2013-08-19 20:48:01.0
+227,Southport Ave & Waveland Ave,In Service,5,10,2013-08-20 13:59:01.0
+228,Damen Ave & Melrose Ave,In Service,7,4,2013-08-20 13:06:01.0
+229,Southport Ave & Roscoe St,In Service,6,13,2013-08-30 04:23:01.0
+230,Lincoln Ave & Roscoe St,In Service,8,11,2013-08-20 13:51:01.0
+231,Sheridan Rd & Montrose Ave,In Service,5,10,2013-08-20 16:46:02.0
+232,Pine Grove Ave & Addison St,In Service,7,8,2013-08-21 15:13:01.0
+233,Sangamon St & Washington Blvd,In Service,4,11,2013-08-30 04:23:01.0
+234,Clark St & Montrose Ave,In Service,1,18,2013-08-20 16:24:01.0
+236,Sedgwick St & Schiller St,In Service,7,8,2013-08-21 13:23:01.0
+237,Martin Luther King Dr & 29th St,In Service,4,11,2013-08-21 12:47:01.0
+238,Ravenswood Ave & Montrose Ave,In Service,5,10,2013-08-23 00:15:01.0
+239,Western Ave & Leland Ave,In Service,6,9,2013-08-21 16:16:01.0
+240,Sheridan Rd & Irving Park Rd,In Service,4,7,2013-08-21 17:39:01.0
+241,Morgan St & Polk St,In Service,8,7,2013-08-23 00:15:01.0
+242,Damen Ave & Leland Ave,In Service,4,11,2013-08-23 00:15:01.0
+243,Lincoln Ave & Leavitt St,In Service,5,10,2013-08-21 16:46:01.0
+244,Ravenswood Ave & Irving Park Rd,In Service,9,10,2013-08-23 00:15:01.0
+245,Clarendon Ave & Junior Ter,In Service,5,10,2013-08-27 02:44:01.0
+246,Ashland Ave & Belle Plaine Ave,In Service,3,8,2013-08-27 02:44:01.0
+247,Shore Drive & 55th St,In Service,8,7,2013-08-23 14:30:01.0
+248,Woodlawn Ave & 55th St,In Service,8,7,2013-08-23 13:41:01.0
+249,Montrose Harbor,In Service,7,8,2013-08-27 02:44:01.0
+250,Ashland Ave & Wellington Ave,In Service,6,13,2013-08-27 02:44:01.0
+251,Clarendon Ave & Leland Ave,In Service,5,9,2013-08-27 02:44:01.0
+252,Greenwood Ave & 47th St,In Service,5,10,2013-08-28 03:24:02.0
+253,Clifton Ave & Lawrence Ave,In Service,9,6,2013-09-08 10:36:01.0
+254,Pine Grove Ave & Irving Park Rd,In Service,8,7,2013-09-09 13:30:01.0
+255,Indiana Ave & Roosevelt Rd,In Service,10,21,2013-09-05 11:18:02.0
+256,Broadway & Sheridan Rd,In Service,4,11,2013-09-05 15:42:01.0
+257,Lincoln Ave & Waveland Ave,In Service,5,10,2013-09-09 13:30:01.0
+258,Logan Blvd & Elston Ave,In Service,15,4,2013-09-09 15:34:01.0
+259,California Ave & Francis Pl,In Service,6,9,2013-09-12 18:01:01.0
+260,Kedzie Ave & Milwaukee Ave,In Service,6,13,2013-09-17 10:57:01.0
+261,Hermitage Ave & Polk St,In Service,4,11,2013-09-05 13:25:01.0
+262,Halsted St & 37th St,In Service,3,8,2013-10-01 13:49:01.0
+263,Rhodes Ave & 32nd St,In Service,3,8,2013-09-17 14:54:01.0
+264,Stetson Ave & South Water St,In Service,12,7,2013-09-18 22:14:02.0
+265,Cottage Grove Ave & Oakwood Blvd,In Service,6,9,2013-09-17 13:32:02.0
+267,Lake Park Ave & 47th St,In Service,5,10,2013-09-17 12:48:01.0
+268,Lake Shore Dr & North Blvd,In Service,6,9,2013-09-12 16:04:01.0
+271,Cottage Grove Ave & 43rd St,In Service,5,6,2013-09-12 11:40:01.0
+272,Indiana Ave & 31st St,In Service,3,8,2013-09-12 11:07:01.0
+273,Michigan Ave & 18th St,In Service,4,11,2013-09-12 12:15:01.0
+274,Racine Ave & 15th St,In Service,5,10,2013-09-12 12:48:01.0
+275,Ashland Ave & 13th St,In Service,5,10,2013-09-12 13:31:01.0
+276,California Ave & North Ave,In Service,2,9,2013-09-12 17:47:01.0
+277,Ashland Ave & Grand Ave,In Service,6,9,2013-09-12 14:44:02.0
+278,Wallace Ave & 35th St,In Service,5,10,2013-09-13 23:58:01.0
+279,Halsted St & 35th St,In Service,4,11,2013-09-13 23:58:01.0
+280,Morgan St & 31st St,In Service,6,5,2013-09-13 23:58:01.0
+281,Western Ave & 24th St,In Service,6,9,2013-09-13 23:58:01.0
+282,Halsted St & Maxwell St,In Service,6,9,2013-09-13 23:58:01.0
+283,LaSalle St & Jackson Blvd,In Service,8,15,2013-09-15 01:08:01.0
+284,Michigan Ave & Jackson Blvd,In Service,15,8,2013-09-15 01:08:01.0
+285,Wood St & Grand Ave,In Service,7,8,2013-09-13 23:58:01.0
+286,Franklin St & Quincy St,In Service,7,8,2013-09-15 01:08:01.0
+287,Franklin St & Arcade Pl,In Service,7,16,2013-09-13 23:58:01.0
+288,Larrabee St & Armitage Ave,In Service,5,6,2013-09-13 23:58:01.0
+289,Wells St & Concord Ln,In Service,8,11,2013-09-15 01:08:01.0
+290,Kedzie Ave & Palmer Ct,In Service,10,5,2013-10-09 16:20:02.0
+291,Wells St & Evergreen Ave,In Service,5,14,2013-09-15 01:08:01.0
+292,Southport Ave & Clark St,In Service,2,9,2013-09-15 01:08:01.0
+293,Broadway & Wilson Ave,In Service,5,14,2013-09-18 11:52:02.0
+294,Broadway & Berwyn Ave,In Service,11,4,2013-09-17 15:45:01.0
+295,Broadway & Argyle St,In Service,2,13,2013-09-18 22:13:02.0
+296,Broadway & Belmont Ave,In Service,2,13,2013-09-18 10:54:01.0
+297,Paulina St & Montrose Ave,In Service,5,10,2013-09-18 15:43:02.0
+298,Lincoln Ave & Belle Plaine Ave,In Service,5,10,2013-10-01 22:24:02.0
+299,Halsted St & Roscoe St,In Service,8,7,2013-09-20 00:43:02.0
+300,Broadway & Barry Ave,In Service,7,8,2013-09-20 00:43:02.0
+301,Clark St & Schiller St,In Service,6,13,2013-09-19 12:05:01.0
+302,Sheffield Ave & Wrightwood Ave,In Service,4,15,2013-09-20 12:25:01.0
+303,Broadway & Cornelia Ave,In Service,5,10,2013-09-20 00:43:02.0
+304,Halsted St & Waveland Ave,In Service,7,8,2013-09-20 00:43:02.0
+305,Western Ave & Division St,In Service,3,12,2013-09-21 17:28:02.0
+306,Sheridan Rd & Buena Ave,In Service,6,9,2013-09-23 19:20:01.0
+307,Southport Ave & Clybourn Ave,In Service,3,12,2013-09-25 11:02:01.0
+308,Seeley Ave & Roscoe St,In Service,5,6,2013-09-27 10:52:01.0
+309,Leavitt St & Armitage Ave,In Service,6,5,2013-09-20 11:04:01.0
+310,Damen Ave & Charleston St,In Service,4,7,2013-09-20 11:51:01.0
+311,Lincoln Ave & Eastwood Ave,In Service,6,9,2013-09-20 13:24:01.0
+312,Clarendon Ave & Gordon Ter,In Service,7,8,2013-09-20 14:41:01.0
+313,Lakeview Ave & Fullerton Pkwy,In Service,6,13,2013-09-20 15:52:02.0
+314,Ravenswood Ave & Berteau Ave,In Service,3,12,2013-09-27 13:09:02.0
+315,Leavitt St & Hirsch St,In Service,3,8,2013-09-21 17:04:01.0
+316,Damen Ave & Sunnyside Ave,In Service,3,16,2013-09-25 15:02:01.0
+317,Wood St & Taylor St,In Service,6,9,2013-09-21 13:34:01.0
+318,Southport Ave & Irving Park Rd,In Service,5,10,2013-09-21 18:41:01.0
+319,Greenview Ave & Diversey Pkwy,In Service,4,11,2013-09-26 20:39:01.0
+320,Loomis St & Lexington St,In Service,4,11,2013-09-21 17:46:02.0
+321,Wabash Ave & 8th St,In Service,16,3,2013-09-21 16:21:02.0
+322,Kimbark Ave & 53rd St,In Service,5,10,2013-09-21 15:12:01.0
+323,Sheridan Rd & Lawrence Ave,In Service,7,8,2013-09-23 19:20:01.0
+324,Stockton Dr & Wrightwood Ave,In Service,6,9,2013-10-03 23:18:01.0
+325,Clark St & Winnemac Ave,In Service,5,10,2013-09-23 19:20:01.0
+326,Clark St & Leland Ave,In Service,4,7,2013-09-27 14:15:01.0
+327,Sheffield Ave & Webster Ave,In Service,8,11,2013-09-25 12:22:01.0
+328,Ellis Ave & 58th St,In Service,7,8,2013-09-25 17:18:02.0
+329,Lake Shore Dr & Diversey Pkwy,In Service,6,9,2013-09-25 17:55:01.0
+330,Lincoln Ave & Addison St,In Service,7,12,2013-09-26 20:39:01.0
+331,Halsted St & Blackhawk St,In Service,4,15,2013-09-28 14:34:01.0
+332,Halsted St & Diversey Pkwy,In Service,5,10,2013-09-28 10:29:02.0
+333,Ashland Ave & Blackhawk St,In Service,6,9,2013-09-27 16:45:01.0
+334,Lake Shore Dr & Belmont Ave,In Service,6,13,2013-09-27 14:49:01.0
+335,Calumet Ave & 35th St,In Service,3,12,2013-10-17 16:46:01.0
+336,Cottage Grove Ave & 47th St,In Service,5,10,2013-10-17 13:42:01.0
+337,Clark St & Chicago Ave,In Service,6,13,2013-09-27 18:25:02.0
+338,Calumet Ave & 18th St,In Service,6,9,2013-09-28 13:07:01.0
+339,Emerald Ave & 31st St,In Service,5,6,2013-09-28 12:23:01.0
+340,Clark St & Wrightwood Ave,In Service,4,11,2013-10-24 12:35:02.0
+341,Adler Planetarium,In Service,6,13,2013-10-09 12:20:02.0
+342,Wolcott Ave & Polk St,In Service,4,11,2013-10-12 14:19:01.0
+343,Racine Ave & Wrightwood Ave,In Service,6,9,2013-10-24 14:13:01.0
+344,Wolcott Ave & Lawrence Ave,In Service,0,15,2013-10-09 14:51:01.0
+345,Lake Park Ave & 56th St,In Service,5,10,2013-10-09 13:05:02.0
+346,Ada St & Washington Blvd,In Service,4,11,2013-10-10 11:46:01.0
+347,Ashland Ave & Grace St,In Service,6,9,2013-10-12 17:12:01.0
+348,California Ave & 21st St,In Service,5,10,2013-10-14 12:55:02.0
+349,Halsted St & Wrightwood Ave,In Service,7,7,2013-10-28 11:45:02.0
+350,Ashland Ave & Chicago Ave,In Service,5,10,2013-10-23 03:03:01.0
+351,Cottage Grove Ave & 51st St,In Service,5,10,2013-10-17 11:32:01.0
