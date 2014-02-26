@@ -3,10 +3,10 @@ divvy-munging
 The primary file in this repo Divvy_Trips_And_Distances_2013.csv.zip. It contains a table, ready for import into a MySQL database, that combines Divvy’s year 2013 trip data (released February 11, 2014) with corrected station names, station IDs that match Divvy’s stations availability API, launch times, geographic coordinates, precalculated member age, and estimated bicycling distance between stations (see notes). 
 
 ## Need support?
-* Ask for it on Twitter with the [https://twitter.com/search?q=%23divvydata](#DivvyData) hashtag. 
-* Post in the [https://groups.google.com/forum/#!forum/divvydata](Divvy Data Google group). 
-* Come to [http://opengovhacknight.org](Open Gov Hack Night) on Tuesday nights at the Merchandise Mart
-* Contact [http://twitter.com/stevevance](Steven Vance), repo creator if the above methods don't work
+* Ask for it on Twitter with the [#DivvyData](https://twitter.com/search?q=%23divvydata) hashtag. 
+* Post in the [Divvy Data Google group](https://groups.google.com/forum/#!forum/divvydata). 
+* Come to [Open Gov Hack Night]([http://opengovhacknight.org) on Tuesday nights at the Merchandise Mart
+* Contact [Steven Vance](http://twitter.com/stevevance), repo creator if the above methods don't work
 
 ## Notes
 Distances are in meters. The distance represents the Google Maps Bicycle directions distance for that station pair and no route was inspected before the algorithm’s route was accepted into the dataset. 
