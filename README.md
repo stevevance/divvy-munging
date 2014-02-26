@@ -14,6 +14,8 @@ Distances are in meters. The distance represents the Google Maps Bicycle directi
 
 Launch dates prior to August 16, 2013, may be incorrect. I’m working to fix these. 
 
+"Trips that did not include a start or end date were removed from original table" is standard language Alta Bicycle Share uses across all data releases. In the case of Divvy's 2013 data, there were no trips without a start or end date removed from the original table. In general, these kinds of trips would occur from missing/stolen bikes.
+
 ## Basic stats
 
 ### Sex/gender distribution stats
