@@ -1,6 +1,9 @@
 divvy-munging
 =============
-The primary file in this repo Divvy_Trips_And_Distances_2013.csv.zip. It contains a table, ready for import into a MySQL database, that combines Divvy’s year 2013 trip data (released February 11, 2014) with corrected station names, station IDs that match Divvy’s stations availability API, launch times, geographic coordinates, precalculated member age, and estimated bicycling distance between stations (see notes). 
+The primary files were removed on March 5, 2014, because they could not be downloaded correctly. Download the primary file from my Dropbox. CSV version:  [Divvy_Trips_and_Distances_2013.csv.zip](https://www.dropbox.com/sh/tsv5xv9qsvbaopd/BU0byzT42w/Divvy_Trips_and_Distances_2013.csv.zip), or the SQL version: [Divvy_Trips_and_Distances_2013.sql.zip](https://www.dropbox.com/sh/tsv5xv9qsvbaopd/5F8RmEjMpe/Divvy_Trips_and_Distances_2013.sql.zip).
+
+
+This "master file" contains a table, ready for import into a MySQL database, that combines Divvy’s year 2013 trip data (released February 11, 2014) with corrected station names, station IDs that match Divvy’s stations availability API, launch times, geographic coordinates, precalculated member age, and estimated bicycling distance between stations (see notes). 
 
 ## Need support?
 * Review pages on the Bike Sharing Data Hackpad: [Divvy Data II](https://bikesharingdata.hackpad.com/Divvy-Data-II-February-11-2014-WQz3gHkxo0M?r=1) and [Chicago data & experiences](https://bikesharingdata.hackpad.com/Chicago-data-experiences-f1ym6mXft2d)
