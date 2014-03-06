@@ -15,13 +15,13 @@ This "master file" contains a table, ready for import into a MySQL database, tha
 * Contact [Steven Vance](http://twitter.com/stevevance), repo creator if the above methods don't work
 
 ## Notes
-Distances are in meters. The distance represents the Google Maps Bicycle directions distance for that station pair and no route was inspected before the algorithm’s route was accepted into the dataset. 
-
-Launch dates prior to August 16, 2013, may be incorrect. I’m working to fix these. 
-
-"Trips that did not include a start or end date were removed from original table" is standard language Alta Bicycle Share uses across all data releases. In the case of Divvy's 2013 data, there were no trips without a start or end date removed from the original table. In general, these kinds of trips would occur from missing/stolen bikes.
+* Distances are in meters. The distance represents the Google Maps Bicycle directions distance for that station pair and no route was inspected before the algorithm’s route was accepted into the dataset. [More about this distance data](https://groups.google.com/forum/#!topic/divvydata/97NdnxCydbw).
+* Launch dates were corrected (there used to be a message here that said don't trust them)
+* From Divvy's readme: "Trips that did not include a start or end date were removed from original table" is standard language Alta Bicycle Share uses across all data releases. In the case of Divvy's 2013 data, there were no trips without a start or end date removed from the original table. In general, these kinds of trips would occur from missing/stolen bikes.
 
 ## Basic stats
+
+Looking for more stats? Check [here](http://j.mp/1flsRDz), [here](http://j.mp/1kFbO6H), and [here](http://j.mp/1mywA6s).
 
 ### Sex/gender distribution stats
 69% of Divvy members are men, 31% are women, as of the end of 2013, and February 14, 2014. As of this writing, survey responses were not available. From Divvy. 
