@@ -1,7 +1,9 @@
 divvy-munging
 =============
-The primary files were removed on March 5, 2014, because they could not be downloaded correctly. Download the primary file from my Dropbox. CSV version:  [Divvy_Trips_and_Distances_2013.csv.zip](https://www.dropbox.com/sh/tsv5xv9qsvbaopd/BU0byzT42w/Divvy_Trips_and_Distances_2013.csv.zip), or the SQL version: [Divvy_Trips_and_Distances_2013.sql.zip](https://www.dropbox.com/sh/tsv5xv9qsvbaopd/5F8RmEjMpe/Divvy_Trips_and_Distances_2013.sql.zip).
-
+The primary files were removed on March 5, 2014, because they could not be downloaded correctly. Download the primary file from my Dropbox. 
+* CSV version:  [Divvy_Trips_and_Distances_2013.csv.zip](https://www.dropbox.com/sh/tsv5xv9qsvbaopd/BU0byzT42w/Divvy_Trips_and_Distances_2013.csv.zip)
+* SQL version: [Divvy_Trips_and_Distances_2013.sql.zip](https://www.dropbox.com/sh/tsv5xv9qsvbaopd/5F8RmEjMpe/Divvy_Trips_and_Distances_2013.sql.zip). 
+* [Hourly weather from Weather Underground](https://www.dropbox.com/sh/tsv5xv9qsvbaopd/d4yjDfXdiU/chicago_wunderground.txt) via GT Wrobel
 
 This "master file" contains a table, ready for import into a MySQL database, that combines Divvy’s year 2013 trip data (released February 11, 2014) with corrected station names, station IDs that match Divvy’s stations availability API, launch times, geographic coordinates, precalculated member age, and estimated bicycling distance between stations (see notes). 
 
