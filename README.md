@@ -3,13 +3,16 @@
 Divvy is hosting its second annual Data Challenge in 2015, with submissings due March 20, 2015. Divvy Munging is a small project to provide modified & enhanced data so entrants can create a project faster.
 
 ## 2014
-[coming soon]
 
 ### Data
+* [Divvy's data, a package of 2013 and 2014 trips](https://s3.amazonaws.com/divvy-data/datachallenge/datachallenge.zip) (64 MB) or browse the unzipped datasets in the [2014 Divvy data folder](https://github.com/stevevance/divvy-munging/tree/master/data_from_divvy).
+* [Ginormous CSV of all possible route shapes](https://dl.dropboxusercontent.com/u/18777370/Divvy_RouteShapes_ALL-FINAL.csv) by Drew DePriest (using MapQuest Directions). Distances are in feet.
 
 ### Notes
+* Divvy occasionally moves stations (but station IDs persist). There isn't yet a list of station moves. 
 
 ### Stats
+Contribute your stats by opening an issue or submitting a pull request. 
 
 ## 2013
 This enhances the Divvy dataset by adding Google Maps-calculated distances between every station pair. 
@@ -45,4 +48,4 @@ The pairwise distance was created by Nick Bennet (with assistance from Smart Chi
 * Ask for it on Twitter with the [#DivvyData](https://twitter.com/search?q=%23divvydata) hashtag. 
 * Post in the [Divvy Data Google group](https://groups.google.com/forum/#!forum/divvydata). 
 * Come to [Open Gov Hack Night]([http://opengovhacknight.org) on Tuesday nights at the Merchandise Mart
-* Contact [Steven Vance](http://twitter.com/stevevance), repo creator if the above methods don't work
+* Contact [Steven Vance](http://twitter.com/stevevance), repo creator if the above methods don't work out
