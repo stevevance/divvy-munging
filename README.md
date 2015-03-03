@@ -1,6 +1,6 @@
 #Enhanced Divvy data
 
-Divvy is hosting its second annual Data Challenge in 2015, with submissings due March 20, 2015. Divvy Munging is a small project to provide modified & enhanced data so entrants can create a project faster.
+Divvy is hosting its [second annual Data Challenge in 2015](http://www.divvybikes.com/datachallenge), with submissings due March 18, 2015 (prizes include an Xbox One and a Windows phone). Divvy Munging is a small project to provide modified & enhanced data so entrants can create a project faster.
 
 ## 2014
 
