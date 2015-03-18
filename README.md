@@ -7,6 +7,7 @@ Divvy is hosting its [second annual Data Challenge in 2015](http://www.divvybike
 ### Data
 * [Divvy's data, a package of 2013 and 2014 trips](https://s3.amazonaws.com/divvy-data/datachallenge/datachallenge.zip) (64 MB) or browse the unzipped datasets in the [2014 Divvy data folder](https://github.com/stevevance/divvy-munging/tree/master/data_from_divvy).
 * [Ginormous CSV of all possible route shapes](https://dl.dropboxusercontent.com/u/18777370/Divvy_RouteShapes_ALL-FINAL.csv) by Drew DePriest (using MapQuest Directions). Distances are in feet.
+* Here is a MySQL version of the combined trip, station, and station capacity data from 2013 and 2014: [divvy.tar.gz](https://www.dropbox.com/s/4wbukqhfnrbtpfk/divvy.tar.gz?dl=0). Run `tar -xzf divvy.tar.gz` to unzip the file. The file was created with `mysqldump`, see [here](http://www.thegeekstuff.com/2008/09/backup-and-restore-mysql-database-using-mysqldump/) for a description of how to load it into MySQL.
 
 ### Notes
 * Divvy occasionally moves stations (but station IDs persist). There isn't yet a list of station moves. 
